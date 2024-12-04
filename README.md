@@ -46,9 +46,9 @@ In the table, "**-1**" represents "**model better**", "**0**" represents "**tie*
 
 ### 📄The scoring results of basic prompt
 (Please see **RQ4_temp/scoring_results_basic_prompt.xlsx**) 
-The results from the two annotators mentioned in Section 4.3 were based on the scoring principles outlined in the same section, where they evaluated the code samples generated from **basic prompt** for readability, conciseness, and robustness.
+> The results from the two annotators mentioned in Section 4.3 were based on the scoring principles outlined in the same section, where they evaluated the code samples generated from **basic prompt** for readability, conciseness, and robustness.
 
 ### 📄The scoring results of four enhanced prompts
 (Please see **RQ4_temp/scoring_results_enhanced_prompts.xlsx**) 
-The results from the two annotators mentioned in Section 4.3 were based on the scoring principles outlined in the same section, where they evaluated the code samples generated from **four enhanced prompts** for readability, conciseness, and robustness. The results for Prompt-1, Prompt-2, Prompt-3, and Prompt-4 correspond to the scoring outcomes of Prompt-head-concise, Prompt-head-detailed, Prompt-end-concise, and Prompt-end-detailed, respectively.
+> The results from the two annotators mentioned in Section 4.3 were based on the scoring principles outlined in the same section, where they evaluated the code samples generated from **four enhanced prompts** for readability, conciseness, and robustness. The results for Prompt-1, Prompt-2, Prompt-3, and Prompt-4 correspond to the scoring outcomes of Prompt-head-concise, Prompt-head-detailed, Prompt-end-concise, and Prompt-end-detailed, respectively.
 ![Prompt templates](https://github.com/DeepSoftwareAnalytics/Coding-Style-Empirical/blob/main/images/prompts-4.png)
